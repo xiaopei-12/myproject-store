@@ -1,0 +1,8 @@
+com\yp\gmall\user\service\UserService.class
+com\yp\gmall\user\mapper\UmsMemberReceiveAddressMapper.class
+com\yp\gmall\user\controller\UserController.class
+com\yp\gmall\user\bean\UmsMemberReceiveAddress.class
+com\yp\gmall\user\GmallUserApplication.class
+com\yp\gmall\user\mapper\UserMapper.class
+com\yp\gmall\user\bean\UmsMember.class
+com\yp\gmall\user\service\impl\UserServiceImpl.class
